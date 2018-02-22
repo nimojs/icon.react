@@ -24,15 +24,35 @@
         <tr>
             <td align="center" >
                 <div class="face-one-feature-item">
+                    <img src="./doc/theme/media/search-1.svg" alt="" class="face-one-feature-item-photo">
+                    <br />
+                    <div class="face-one-feature-item-label">font-awesome</div>
+                    <div class="face-one-feature-item-desc">
+                        分类明确，便于查询
+                    </div>
+                </div>
+            </td>
+            <td align="center" >
+                <div class="face-one-feature-item">
                     <img src="./doc/theme/media/cogwheel.svg" alt="" class="face-one-feature-item-photo">
                     <br />
                     <div class="face-one-feature-item-label">font-awesome</div>
                     <div class="face-one-feature-item-desc">
-                        图标选自流行库
-                        <a href="http://fontawesome.io/icons/" class="face-one-feature-item-desc-link" >font-awesome</a>
+                        图标丰富
                     </div>
                 </div>
             </td>
+            <td align="center" >
+                <div class="face-one-feature-item">
+                    <img src="./doc/theme/media/economy.svg" alt="" class="face-one-feature-item-photo">
+                    <br />
+                    <div class="face-one-feature-item-label">font-awesome</div>
+                    <div class="face-one-feature-item-desc">
+                        图标来源 <a class="face-one-feature-item-desc-link" href="http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=790">ant-desgin</a>
+                    </div>
+                </div>
+            </td>
+            economy
         </tr>
     </table>
 </div>

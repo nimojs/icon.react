@@ -4,17 +4,25 @@ class Basic extends React.Component {
     render () {
         return (
             <div className="basicDemo" >
-                <Icon type="eercast" />
+                <Icon type="up" />
                 {' '}
-                <Icon type="bath" />
+                <Icon type="up-o" />
                 {' '}
-                <Icon type="commenting" />
+                <Icon type="up-of" />
                 {' '}
-                <Icon type="commenting-o" />
+                <Icon type="up-s" />
                 {' '}
-                <Icon type="refresh spin" />
+                <Icon type="up-sf" />
                 {' '}
-                <Icon type="github 3x" />
+                <Icon type="onface" />
+                {' '}
+                <Icon type="info" />
+                {' '}
+                <Icon type="info-o" />
+                {' '}
+                <Icon type="info-of" />
+                {' '}
+                <Icon type="loading" />
                 {' '}
                 <Icon type="github" themes="demo" />
             </div>
