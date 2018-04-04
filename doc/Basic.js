@@ -22,7 +22,7 @@ class Basic extends React.Component {
                 {' '}
                 <Icon type="info-of" />
                 {' '}
-                <Icon type="loading" />
+                <Icon type="loading" className="demoClassName" />
                 {' '}
                 <Icon type="github" themes="demo" />
             </div>
