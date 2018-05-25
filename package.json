@@ -1,7 +1,7 @@
 {
     "name": "icon.react",
     "main": "lib/index.js",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "font-awesome react",
     "keywords": "",
     "scripts": {
@@ -17,7 +17,9 @@
     },
     "$username": "onface",
     "$repository": "icon.react",
-    "dependencies": {},
+    "dependencies": {
+        "react-spread-props": "^0.1.0"
+    },
     "devDependencies": {
         "babel": "^6.23.0",
         "babel-core": "^6.26.0",

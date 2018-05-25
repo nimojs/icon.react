@@ -25,6 +25,14 @@ class Basic extends React.Component {
                 <Icon type="loading" className="demoClassName" />
                 {' '}
                 <Icon type="github" themes="demo" />
+                {' '}
+                <Icon 
+                    type="like"  
+                    style={{color:'black',fontSize:'20px'}}
+                    onClick={()=>{
+                        alert('你还点')
+                    }}
+                />
             </div>
         )
     }
